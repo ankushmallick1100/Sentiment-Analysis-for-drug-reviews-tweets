@@ -1,14 +1,11 @@
 # Sentiment Analysis for drug reviews tweets
 # Description
-Here we are making a predictive system to measure the sentiment of each review tweet, whether it is 1 (Positive Sentiment) or 0 (Negative Sentiment). In this work, LGBM Classifier, XGBooost Classifier, CatBoost Classifier, Random Forest Classifier, and Gradient Boosting Classifier is used. I have written a paper in this topic please check it out. The link of the paper is given below.
+Here we are making a predictive system to measure the sentiment of each review tweet, whether it is 1 (Positive Sentiment) or 0 (Negative Sentiment). In this work, seven difference machine learning models - LGBM Classifier, XGBooost Classifier, CatBoost Classifier, Random Forest Classifier, Gradient Boosting Classifier, K-Nearest Neighbors and Logisitc Regression are used.
 <br>
 <br>
 __*LGBM Classifier gives the best accuracy of 90.04*__
 <br>
 # Dataset
-Dataset is present in Kaggle
+Dataset is present in UCL Machine Learning Repository
 <br>
-Link: https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018
-<br>
-# Paper Link: 
-Link: 
+Link: https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
