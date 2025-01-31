@@ -6,6 +6,6 @@ Here we are making a predictive system to measure the sentiment of each review t
 __*LGBM Classifier gives the best accuracy of 90.78*__
 <br>
 # Dataset
-Dataset is present in UCL Machine Learning Repository
+Dataset is present in UCL Machine Learning Repository which is currently present at Kaggle
 <br>
-Link: https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
+Link: https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018
